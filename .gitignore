@@ -1,0 +1,5 @@
+## ignore report generate by this program
+fareReport.txt
+passengersAlive.txt
+passengersDeceased.txt
+.DS_Store
